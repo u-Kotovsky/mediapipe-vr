@@ -5,7 +5,7 @@ things needed:
  - Phone (Cardboard)/Oculus Go/Pimax 4K
  - PS Move/PS Navi/Wii remote
  - VR ready PC
- - >=2 camera with medium quality (PS3 Eye)
+ - ~2 or more cameras with medium quality (PS3 Eye)
 
 vrchat osc:
 https://docs.vrchat.com/docs/osc-trackers
