@@ -1,3 +1,14 @@
 # mediapipe-vr
 
-An implementantion of google tracking in vr for those who use controllers with just accelerometer and phone as hmd (or oculus go with pc connection)
+An implementantion of google tracking for vrchat
+things needed:
+ - Phone (Cardboard)/Oculus Go/Pimax 4K
+ - PS Move/PS Navi/Wii remote
+ - VR ready PC
+ - >=2 camera with medium quality (PS3 Eye)
+
+vrchat osc:
+https://docs.vrchat.com/docs/osc-trackers
+https://docs.vrchat.com/docs/osc-avatar-parameters
+https://docs.vrchat.com/docs/osc-as-input-controller
+https://docs.vrchat.com/docs/osc-resources
